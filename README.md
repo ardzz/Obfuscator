@@ -1,2 +1,3 @@
 # Obfuscator
-Obfuscator PHP
+## Cara Penggunaan
+### I. Melakukan Obfuscate
