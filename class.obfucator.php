@@ -49,7 +49,7 @@ class ardzz_obfuscator{
 				$syetboi = $setboi[array_rand($setboi)];
 				if ($input == $value) {
 					$settboii = $setboi[array_rand($setboi)];
-					$output[] .= "./* -- {$syetboi} --*/(NULL)/* -- {$settboii} -- */.{$var_name}/*//*/[{$key}]./*/-'-/*/(NULL)";
+					$output[] .= "./* -- {$syetboi} --*/(NULL)/* -- {$settboii} -- */.{$var_name}/*//*/[{$key}]./*/-*-/*/(NULL)";
 				}
 			}
 		}
