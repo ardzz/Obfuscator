@@ -1,3 +1,3 @@
 # Obfuscator
-## Cara Penggunaan
-### I. Melakukan Obfuscate
+### Cara Penggunaan
+#### I. Melakukan Obfuscate
