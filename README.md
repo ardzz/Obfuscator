@@ -16,7 +16,7 @@ $output = $obfuscator->Obfuscate("string", "key");
 echo $output;
 ?>
 ```
-#### I. Melakukan Unobfuscate (*Decode*)
+#### II. Melakukan Unobfuscate (*Decode*)
 1. Panggil *method **UnObfuscate*** yang ada di *class **ardzz_obfuscator***
 2. Set argumen di method ***UnObfuscate*** `ardzz_obfuscator::UnObfuscate("encoded_string");`
 3. Print output
