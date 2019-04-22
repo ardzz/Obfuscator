@@ -22,11 +22,7 @@ class ardzz_obfuscator{
 				}
 			}
 		}
-		if ($output) {
-			return $output;
-		}else{
-			return false;
-		}
+		return $output;
 	}
 	function Obfuscate($string, $var_name){
 		$key = $this->key;
